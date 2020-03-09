@@ -1,5 +1,5 @@
 [package]
-name = "timeTracker"
+name = "terminal_note"
 version = "0.1.0"
 authors = ["yunfengzhang.zyf <yunfengzhang.zyf@alibaba-inc.com>"]
 edition = "2018"
