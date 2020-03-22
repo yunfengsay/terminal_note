@@ -96,6 +96,15 @@ dependencies = [
 ]
 
 [[package]]
+name = "terminal_note"
+version = "0.1.0"
+dependencies = [
+ "chrono 0.4.10 (registry+https://mirrors.ustc.edu.cn/crates.io-index/)",
+ "eventual 0.1.7 (registry+https://mirrors.ustc.edu.cn/crates.io-index/)",
+ "termion 1.5.5 (registry+https://mirrors.ustc.edu.cn/crates.io-index/)",
+]
+
+[[package]]
 name = "termion"
 version = "1.5.5"
 source = "registry+https://mirrors.ustc.edu.cn/crates.io-index/"
@@ -114,15 +123,6 @@ dependencies = [
  "libc 0.2.67 (registry+https://mirrors.ustc.edu.cn/crates.io-index/)",
  "redox_syscall 0.1.56 (registry+https://mirrors.ustc.edu.cn/crates.io-index/)",
  "winapi 0.3.8 (registry+https://mirrors.ustc.edu.cn/crates.io-index/)",
-]
-
-[[package]]
-name = "timeTracker"
-version = "0.1.0"
-dependencies = [
- "chrono 0.4.10 (registry+https://mirrors.ustc.edu.cn/crates.io-index/)",
- "eventual 0.1.7 (registry+https://mirrors.ustc.edu.cn/crates.io-index/)",
- "termion 1.5.5 (registry+https://mirrors.ustc.edu.cn/crates.io-index/)",
 ]
 
 [[package]]
